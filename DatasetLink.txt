@@ -1,0 +1,2 @@
+Dataset download: https://drive.google.com/drive/folders/10apw5u9vjYoYCPmlm4DeEYc4JPe_TS_g?usp=sharing
+Kaggle link: https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data 
